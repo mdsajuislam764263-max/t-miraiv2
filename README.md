@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="https://github.com/miraiPr0ject/miraiv2">
+    <a href="https://github.com/mdsajuislam764263-max/t-miraiv2.git">
         <img src="https://i.imgur.com/sxW5AWa.png" alt="Logo">
     </a>
 
